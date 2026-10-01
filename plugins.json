@@ -525,13 +525,13 @@
         "description": "Tempo-synced stereo delay - independent L/R timing, filtered and saturated feedback, ping-pong. Apple Silicon only",
         "urls": {
           "macos": {
-            "url": "https://github.com/StudioZIO/StudioZIO-Releases/releases/download/tempo-delay-v4.0.1-aax-2026.09.10/StudioZIOTempoDelay-v4.0.1-macOS-arm64-AAX.pkg",
-            "filename": "StudioZIOTempoDelay-v4.0.1-macOS-arm64-AAX.pkg",
-            "sha256": "4e919c509cca196e178a0a991d24c02eb7e1ba81c5890e0f4fce16aba94ec055",
+            "url": "https://github.com/StudioZIO/StudioZIO-Releases/releases/download/tempo-delay-v4.0.3/StudioZIOTempoDelay-v4.0.3-macOS-arm64.pkg",
+            "filename": "StudioZIOTempoDelay-v4.0.3-macOS-arm64.pkg",
+            "sha256": "6ba310fadf4435a2929675035298b27da534d7215e2370c6b50075ab52d60330",
             "hash_source": "publisher"
           }
         },
-        "version": "4.0.1",
+        "version": "4.0.3",
         "formats": [
           "AU",
           "VST3",
